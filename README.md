@@ -27,6 +27,10 @@
 <br>
 <br>
 
+<h1 align="center">Mis estadisticas</h1>
+<br>
+<br>
+
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" width="90%" src="http://github-readme-streak-stats.herokuapp.com?user=ClaudiaZorrilla2343&show_icons=true&theme=holi-theme&icon_color=5FAAED&bg_color=030314&title_color=5FAAED&border_color=61dafb&hide_border=true">
