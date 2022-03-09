@@ -38,3 +38,9 @@
     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ClaudiaZorrilla2343&theme=react-dark&bg_color=030314&color=5FAAED&hide_border=true" width="90%"/>
 </div>
 <br>
+
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+        <img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=ClaudiaZorrilla2343&show_icons=true&theme=react&icon_color=5FAAED&bg_color=030314&title_color=5FAAED&border_color=61dafb&hide_border=true" />
+    </a>
+</div>
