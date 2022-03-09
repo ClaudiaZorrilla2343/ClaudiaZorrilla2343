@@ -33,3 +33,8 @@
     </a>
 </div>
 <br>
+
+<div align="center">
+    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ClaudiaZorrilla2343&theme=react-dark&bg_color=030314&color=5FAAED&hide_border=true" width="90%"/>
+</div>
+<br>
